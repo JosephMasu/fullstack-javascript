@@ -8,6 +8,7 @@ function myFunction(param1, param2){
     return param1 * param2;
 
 }
+
 let x = myFunction(34, 30);
 console.log(x);
 
