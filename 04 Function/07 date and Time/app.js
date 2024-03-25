@@ -27,3 +27,27 @@ console.log(currentDate.toLocaleTimeString());
 //currentDate.setDate(currentDate.getDate() + 1);
 currentDate.setDate(currentDate.getDate() - 1);
 console.log(currentDate);
+
+
+// //set intervals 
+// setInterval(() =>
+// console.log(`this function will be executed after every 2 seconds`),
+// 2000
+// );
+
+// //setTimeout
+// setTimeout(function() {
+// console.log(`this function will be executed after 3 seconds`);
+// }, 3000);
+
+//stop interval  after 10 seconds
+const intervalId = setInterval(function(){
+    console.log(`This fuction is beeing executed at the interval `);
+}, 1000);
+
+// stop the interval after 100 seconds
+setTimeout(function(){
+    clearInterval(intervalId);
+    console.log(`interval stopped`);
+
+}, 10000); 
