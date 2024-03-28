@@ -4,6 +4,8 @@
 // 4. Get "a" from that map
 // 5. Check the size of that map
 // 6. Delete the property "b" & then check the size.
+//let's go!
+
 
 const map1 = new Map();
 

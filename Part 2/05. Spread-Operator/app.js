@@ -11,5 +11,5 @@ const user ={
     name: "Masu",
     age: 25,
 };
-const cloneUser = {...user, sex: "Male"};
-console.log(cloneUser);
+const CloneUser = {...user, sex: "Male"};
+console.log(CloneUser);

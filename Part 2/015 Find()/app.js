@@ -1,3 +1,4 @@
+//let's go!
 let products = [
     { name: "Checkers", category: "Toys" },
     { name: "Harry Potter", category: "Books" },

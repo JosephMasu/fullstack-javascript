@@ -16,12 +16,8 @@ const namess = ["Rohit","Aakash","Vinay","Ashish","Vasu"];
 const newName =namess.map(function(name, index, array) {
   return name + "DEV";
 });
-console.log(newName); // Output: ['RohitDEV', 'AakashDEV', 'VinayDEV', 'AshishDEV', 'VasuDEV']
-
-console.log(namess); // Output: ['Rohit', 'Aakash', 'Vinay', 'Ashish', 'Vasu']
-
-
-
+console.log(newName); 
+console.log(namess); 
 const names = ["Rohit","Aakash","Vinay","Ashish","Vasu"];
 
 const newNames=names.forEach(function(names, index, array) {

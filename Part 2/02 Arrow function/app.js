@@ -27,7 +27,7 @@
 //   }, 2000);
 // }, 2000);
 
-setTimeout( () => {
+setTimeout(() => {
   console.log("Hello");
   setTimeout( () => {
     console.log("Hey");

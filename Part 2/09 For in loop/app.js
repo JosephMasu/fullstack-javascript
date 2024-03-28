@@ -6,7 +6,7 @@ for (const property in object) {
   console.log(`${property}: ${object[property]}`);
 }
 
-
+//work
 // for in loo to calculate tyhe average
 const testScores = {
   Math: 90,

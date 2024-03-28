@@ -1,3 +1,4 @@
+//let's go!
 const peoples = ["Masu", "Gaga"];
 const ages = ["12", "110"];
 

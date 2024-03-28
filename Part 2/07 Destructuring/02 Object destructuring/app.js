@@ -1,6 +1,6 @@
 const names = {
     first_name: "Masu", 
-    last_name: "Muhindo", 
+    Last_name: "Muhindo", 
     surname: "Joseph", 
     aka: "Negro", 
     givenAka: "Joe"};
@@ -9,7 +9,7 @@ const names = {
 
 // After extracting the names, log each variable's value to the console.
 
-const {first_name, last_name, surname, aka, givenAka} = names;
+const {first_name, Last_name, surname, aka, givenAka} = names;
 console.log(first_name);
-console.log(last_name);
+console.log(Last_name);
 console.log(surname);

@@ -2,7 +2,7 @@ const names = {
     first_name: "Masu", 
     last_name: "Muhindo", 
     surname: "Joseph", 
-    aka: "Negro", 
+    Aka: "Negro", 
     givenAka: "Joe"};
 
 // Your task is to use object destructuring to extract 

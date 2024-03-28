@@ -3,6 +3,7 @@
 // 3. Create empty object
 // 4. Store symbol as the property to that object.
 // 5. Iterate over Symbol.
+//let's go!
 
 let mySymbol = Symbol();
 typeof mySymbol;

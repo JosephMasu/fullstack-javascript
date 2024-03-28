@@ -12,11 +12,11 @@
 // console.log(result);
 
 let age = 15;
-let result;
+let res;
 
 if(age >=18){
-    result = "You are eligible to vote.";   
+    re = "You are eligible to vote.";   
 }else{
-    result = "You are not eligible to vote yet.";
+    res = "You are not eligible to vote yet.";
 }
-console.log(result);
+console.log(res);

@@ -4,5 +4,5 @@ const names = ["Masu", "Muhindo", "Joseph", "Negro", "Joe"];
 
 // After extracting the names, log each variable's value to the console.
 
-const [first_name, last_name, surname, aka, givenAka] = names;
-console.log(first_name, last_name, surname);
+const [first_name, Last_name, surname, aka, givenAka] = names;
+console.log(first_name, Last_name, surname);

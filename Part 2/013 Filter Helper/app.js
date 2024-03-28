@@ -10,7 +10,7 @@ console.log(results);
 
 // 1. Iterate Over "words" array
 // 2. Print only those words which length is greater then 6
-
+//let's go!
 const words = [
     "spray",
     "limit",

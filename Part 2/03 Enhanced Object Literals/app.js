@@ -62,6 +62,5 @@ function getPersionES6(name, age, height) {
   
   const result = getPersionES6("Zachary", 23, 195);
   console.log(result);
-  // Expected output: { name: 'Zachary', age: 23, height: 195 }
 
 

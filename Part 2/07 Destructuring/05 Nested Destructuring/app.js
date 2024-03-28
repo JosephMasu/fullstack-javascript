@@ -4,6 +4,7 @@ const songs = [
   { name: "Over dem all", singer: "Davido", duration: 2.33 },
   { name: "Alliance", singer: "Fally Ipupa", duration: 4.43 },
   { name: "Olandi", singer: "Innos's B", duration: 5.23 },
+  { name: "Egwu", singer: "Imole", duration: 2.23 },
 ];
 
 const [, { singer: s ,  name: n ,  duration: d }] = songs;

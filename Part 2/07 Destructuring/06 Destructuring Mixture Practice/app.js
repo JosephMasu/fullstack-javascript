@@ -53,7 +53,7 @@ const data = {
       language,
     },
   } = data;
-
+//work
   // Logging the extracted data using template literals
 console.log(`Name: ${name}`);
 console.log(`Age: ${age}`);
