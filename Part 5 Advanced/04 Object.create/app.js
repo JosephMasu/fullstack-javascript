@@ -16,4 +16,6 @@ let person = {
     lastName: { value: "Galien" },
   });
   
+  console.log(masu);
   Gaga.greet();
+  console.log(Gaga);
