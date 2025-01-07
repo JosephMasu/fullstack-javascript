@@ -3,7 +3,6 @@
 // brown fox
 // jumps over
 // the lazy dog
-
 // 2. Create two variables (firstName, lastName)
 // 3. Use that variables in template string.
 
