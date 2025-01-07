@@ -1,6 +1,5 @@
 // 1. Create an array of numbers.
 let numbers = [1, 2, 3, 4, 5];
-// 2. Create a variable to hold the sum.
 let sum = 0;
 function adder(num){
     sum += num;
