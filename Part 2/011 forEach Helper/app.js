@@ -7,7 +7,6 @@ function adder(num){
 numbers.forEach(adder);
 console.log(sum);
 
-
 // Understanding the Differences: forEach vs map in JavaScript
 const namess = ["Rohit","Aakash","Vinay","Ashish","Vasu"];
 
